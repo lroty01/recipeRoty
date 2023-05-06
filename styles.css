@@ -211,7 +211,9 @@ footer p{
    fill: #ffffff;
  }
 
-
+#fauxMenu{
+display: none;
+}
  #fullMenu{
    display: none;
  }
